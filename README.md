@@ -26,3 +26,4 @@ EXERCICE 3 — Optimisation du site web Maekn.com
 Donne-nous 2 idées concrètes pour :
 ● Améliorer le SEO de cette page
 ● Rendre la page plus claire et engageante pour l’utilisateur
+https://test-de-comp-tences-alternant.onrender.com
